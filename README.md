@@ -1,2 +1,3 @@
 Real time chat app and group conversations.
-Deployed project link -> https://chat-room-web.netlify.app/
+Deployed project link using heroku and netlify.
+Check it out -> https://chat-room-web.netlify.app/
